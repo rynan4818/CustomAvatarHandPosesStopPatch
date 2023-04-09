@@ -1,1 +1,8 @@
 # CustomAvatarHandPosesStopPatch
+
+CustomAvatarのPoseManager.InterpolateHandPosesをアバターのCustomKeyEventなどで使えるようにするパッチです。
+
+CustomKeyEventを使ってコントローラのボタンで手のひらを閉じたり開いたりできます。
+
+これを適用すると、CustomAvatarのフィンガートラッキング機能が停止します。
+
