@@ -2,7 +2,7 @@
 
 CustomAvatarのPoseManager.InterpolateHandPosesをアバターのCustomKeyEventなどで使えるようにするパッチです。
 
-CustomKeyEventを使ってコントローラのボタンで手のひらを閉じたり開いたりできます。
+[CustomKeyEvent](https://github.com/ranmd9a/BSCustomKeyEvents)を使ってコントローラのボタンで手のひらを閉じたり開いたりできます。
 
 
 これを適用すると、CustomAvatarのフィンガートラッキング機能が停止します。
